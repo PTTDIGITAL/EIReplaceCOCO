@@ -1,0 +1,18 @@
+CONFIG_KEY|CONFIG_DESC|CONFIG_TYPE|MODULE_TYPE|CONFIG_VALUE|CREATEDATE|MODDATE|MODBY
+ALARM_ATG|ON OFF ALARM_ATG|1|1|1|12/12/2557 16:43:45|12/12/2557 16:43:45|ADMIN
+AUTO_VOID_EDC|ON OFF Auto void EDC |1|1|1|5/9/2557 11:25:24|31/7/2560 21:51:09|
+B_BENEFIT|Check oil benefit|1|1|0|19/12/2556 15:12:39|19/12/2556 15:12:39|admin
+EDC_LINK_FLEET|กำหนดค่าว่าจะ Link Fleet (ส่งเลขที่ Fulltax) หรือไม่|1|1|1|29/10/2558 12:37:21|29/10/2558 12:37:21|Admin
+FTS_NORMAL_PATH|กำหนด Physical path สำหรับโปรแกรม Fulltax|1|1|C:\FTS_APP\FTS_ICT.exe|29/10/2558 12:37:21|29/10/2558 12:37:21|Admin
+L_CHECK_ACTIVATE|เปิดปิดการใช้งานการ ตรวจสอบ การการเปิดใช้ Blue Card|1|1|1|1/10/2555 2:40:08|1/10/2555 2:40:08|Loyalty
+L_CHECK_REGIS|เปิดปิดการใช้งานการ ตรวจสอบ การลงทะเบียน Blue Card|1|1|0|1/10/2555 2:40:08|1/10/2555 2:40:08|Loyalty
+L_FORWARD_INTERVAL|เวลา(นาที)forward bluecard|1|1|30|||
+L_SEND_LUBE_SHARE|????????????????|1|1|0|19/10/2555 19:06:06|19/10/2555 19:06:06|Oil Energy
+MANUAL_AT_RING|1 is allow manual authorize ring pump|1|1|0|10/10/2557 17:47:26|10/10/2557 17:47:26|ADMIN
+O_CANCEL_EMP_EQ|ยกเลิกการใช้งานบัตรพนักงาน =|1|1|1|31/1/2556 17:22:25|31/1/2556 17:22:25|Admin Administrator
+O_SHOW_AD|แสดงหน้าจอประกาศ|1|1|1|29/12/2555 15:24:55|29/12/2555 15:24:55|Admin
+PAYMENT_MT_CREDIT|1 is allow muti transaction for credit payment|1|1|1|9/10/2557 10:49:22|9/10/2557 10:49:22|ADMIN
+POS_MODE|P(POS) H(HALF) F(FULLY) Z(HQ)|1|1|P|6/7/2560 10:27:31|6/7/2560 10:27:31|Admin
+RING_FTS_BOOKING|ON OFF FTS_Booking,PPU,Available_Credit|1|1|0|12/12/2557 16:33:21|12/12/2557 16:33:21|ADMIN
+RING_LOG_PATH|กำหนด Physical log path สำหรับโปรแกรม FillGo|1|1|E:\VIS_APP_LOG\|29/10/2558 12:37:21|29/10/2558 12:37:21|Admin
+

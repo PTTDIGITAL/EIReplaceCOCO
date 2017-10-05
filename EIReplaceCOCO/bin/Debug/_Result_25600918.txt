@@ -1,0 +1,351 @@
+﻿25600918 09:09:22  Start Program
+25600918 09:09:25  เริ่มต้นนำเข้าข้อมูล
+25600918 09:09:25  Confirm Password : Cancel
+25600918 09:09:29  Exit Program
+25600918 09:09:50  Start Program
+25600918 09:09:54  Exit Program
+25600918 09:09:06  Start Program
+25600918 09:09:51  Start Program
+25600918 09:09:53  เริ่มต้นนำออกข้อมูล
+25600918 09:09:53  Confirm Password : Success
+25600918 09:09:53  APP_DATA  (1 Row)
+25600918 09:09:53  TBPOS_PUMP_ALLOW  (6 Row)
+25600918 09:09:53  TBMATERIAL  (1662 Row)
+25600918 09:09:53  TBBOM_USAGE  (2011 Row)
+25600918 09:09:53  TBMATTERIAL_SITE  (54 Row)
+25600918 09:09:53  TBCONVERSION  (6927 Row)
+25600918 09:09:53  LKMAT_GROUP3  (46 Row)
+25600918 09:09:53  LKDIVISION  (37 Row)
+25600918 09:09:53  TBMAT_RECOMMEND  (6 Row)
+25600918 09:09:53  APP_CONFIG  (16 Row)
+25600918 09:09:53  POS_CONFIG  (2 Row)
+25600918 09:09:53  TBUSER  (16 Row)
+25600918 09:09:53  TSJOURNAL  (579 Row)
+25600918 09:09:53  TSJOURNAL_DETAIL  (581 Row)
+25600918 09:09:53  TSJOURNAL_PAYMENT  (579 Row)
+25600918 09:09:53  TBPERIODS  (3 Row)
+25600918 09:09:53  TBHOSE_HISTORY  (54 Row)
+25600918 09:09:53  TBMATERIAL_HISTORY  (56 Row)
+25600918 09:09:53  TBTANK_HISTORY  (15 Row)
+25600918 09:09:53  TBPAY_IN  (3135 Row)
+25600918 09:09:53  สิ้นสุดการนำออกข้อมูล
+25600918 09:09:07  Exit Program
+25600918 10:09:47  Start Program
+25600918 10:09:56  เริ่มต้นนำออกข้อมูล
+25600918 10:09:56  Confirm Password : Success
+25600918 10:09:56  APP_DATA  (1 Row)
+25600918 10:09:56  TBPOS_PUMP_ALLOW  (6 Row)
+25600918 10:09:56  TBMATERIAL  (1662 Row)
+25600918 10:09:56  TBBOM_USAGE  (2011 Row)
+25600918 10:09:56  TBMATTERIAL_SITE  (54 Row)
+25600918 10:09:56  TBCONVERSION  (6927 Row)
+25600918 10:09:56  LKMAT_GROUP3  (46 Row)
+25600918 10:09:56  LKDIVISION  (37 Row)
+25600918 10:09:56  TBMAT_RECOMMEND  (6 Row)
+25600918 10:09:56  APP_CONFIG  (16 Row)
+25600918 10:09:56  POS_CONFIG  (2 Row)
+25600918 10:09:56  TBUSER  (16 Row)
+25600918 10:09:56  TSJOURNAL  (579 Row)
+25600918 10:09:56  TSJOURNAL_DETAIL  (581 Row)
+25600918 10:09:56  TSJOURNAL_PAYMENT  (579 Row)
+25600918 10:09:56  TBPERIODS  (3 Row)
+25600918 10:09:56  TBHOSE_HISTORY  (54 Row)
+25600918 10:09:56  TBMATERIAL_HISTORY  (56 Row)
+25600918 10:09:56  TBTANK_HISTORY  (15 Row)
+25600918 10:09:56  TBPAY_IN  (3135 Row)
+25600918 10:09:56  สิ้นสุดการนำออกข้อมูล
+25600918 10:09:28  Exit Program
+25600918 10:09:59  Start Program
+25600918 10:09:14  Start Program
+25600918 10:09:15  เริ่มต้นนำออกข้อมูล
+25600918 10:09:15  Confirm Password : Success
+25600918 10:09:15  APP_DATA  (1 Row)
+25600918 10:09:15  TBPOS_PUMP_ALLOW  (6 Row)
+25600918 10:09:15  TBMATERIAL  (1662 Row)
+25600918 10:09:15  TBBOM_USAGE  (2011 Row)
+25600918 10:09:15  TBMATTERIAL_SITE  (54 Row)
+25600918 10:09:15  TBCONVERSION  (6927 Row)
+25600918 10:09:15  LKMAT_GROUP3  (46 Row)
+25600918 10:09:15  LKDIVISION  (37 Row)
+25600918 10:09:15  TBMAT_RECOMMEND  (6 Row)
+25600918 10:09:15  APP_CONFIG  (16 Row)
+25600918 10:09:15  POS_CONFIG  (2 Row)
+25600918 10:09:15  TBUSER  (16 Row)
+25600918 10:09:15  TSJOURNAL  (579 Row)
+25600918 10:09:15  TSJOURNAL_DETAIL  (581 Row)
+25600918 10:09:15  TSJOURNAL_PAYMENT  (579 Row)
+25600918 10:09:15  TBPERIODS  (3 Row)
+25600918 10:09:15  TBHOSE_HISTORY  (54 Row)
+25600918 10:09:15  TBMATERIAL_HISTORY  (56 Row)
+25600918 10:09:15  TBTANK_HISTORY  (15 Row)
+25600918 10:09:15  TBPAY_IN  (3135 Row)
+25600918 10:09:15  สิ้นสุดการนำออกข้อมูล
+25600918 10:09:25  Exit Program
+25600918 10:09:59  Start Program
+25600918 10:09:00  เริ่มต้นนำเข้าข้อมูล
+25600918 10:09:00  Confirm Password : Success
+25600918 10:09:00  APP_DATAไม่สามารถนำเข้าข้อมูลได้ !
+พบปัญหาในการนำเข้าข้อมูล : Table APP_DATA:System.Data.SqlClient.SqlException (0x80131904): Invalid column name 'COM_NAME'.
+Invalid column name 'COM_BRANCH'.
+Invalid column name 'LOCAL_DIFFERENCE'.
+Invalid column name 'TOBACCO_TAX'.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlCommand.RunExecuteNonQueryTds(String methodName, Boolean async, Int32 timeout, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at EIReplaceCOCO.frmMain.InsertData(String TableName, DataTable dt) in D:\PTT_POS\Project\EIReplaceCOCO\EIReplaceCOCO\frmMain.vb:line 820
+ClientConnectionId:208d48ab-cf6b-48d9-86a4-c3651cd7451b
+Error Number:207,State:1,Class:16 sql: INSERT INTO [dbo].[APP_DATA]
+                           ([AID]
+                           ,[DEPOT]
+                           ,[SITENAME]
+                           ,[SITEADD]
+                           ,[SITETEL]
+                           ,[SITEFAX]
+                           ,[SITEZIPCODE]
+                           ,[VATNO]
+                           ,[LOCALVAT]
+                           ,[IS_COCO]
+                           ,[IS_POSCASH]
+                           ,[CREATEDATE]
+                           ,[MODDATE]
+                           ,[MODBY]
+                           ,[BUS_PLACE]
+                           ,[VOLUMEFORMAT]
+                           ,[VALUEFORMAT]
+                           ,[SITENAME2]
+                           ,[C_SERVICE]
+                           ,[COM_NAME]
+                           ,[COM_BRANCH]
+                           ,[LOCAL_DIFFERENCE]
+                           ,[TOBACCO_TAX])
+                            VALUES
+                           ('0'
+                           ,'6211'  
+                           ,'บริษัท ปตท. จำกัด (มหาชน) สาขาประชาชื่น '  
+                           ,'1022 ถนนประชาชื่น แขวงบางซื่อ เขตบางซื่อ กรุงเทพมหานคร 10800'  
+                           ,'12345' 
+                           ,'12345'  
+                           ,'10800'  
+                           ,'0107544000108'  
+                           ,'7.00'  
+                           ,'True'  
+                           ,'False'  
+                           ,getdate()
+                           ,getdate()
+                           ,'IEReplaceCOCO'
+                           ,'0722'  
+                           ,'3'  
+                           ,'2'  
+                           ,null  
+                           ,'http://10.120.0.114/posws/posws.asmx'  
+                           ,null  
+                           ,null  
+                           ,0  
+                           ,7)
+25600918 10:09:12  Exit Program
+25600918 10:09:23  Start Program
+25600918 10:09:35  Start Program
+25600918 10:09:38  เริ่มต้นนำออกข้อมูล
+25600918 10:09:38  Confirm Password : Success
+25600918 10:09:38  APP_DATA  (1 Row)
+25600918 10:09:38  TBPOS_PUMP_ALLOW  (6 Row)
+25600918 10:09:38  TBMATERIAL  (1662 Row)
+25600918 10:09:38  TBBOM_USAGE  (2011 Row)
+25600918 10:09:38  TBMATTERIAL_SITE  (54 Row)
+25600918 10:09:38  TBCONVERSION  (6927 Row)
+25600918 10:09:38  LKMAT_GROUP3  (46 Row)
+25600918 10:09:38  LKDIVISION  (37 Row)
+25600918 10:09:38  TBMAT_RECOMMEND  (6 Row)
+25600918 10:09:38  APP_CONFIG  (16 Row)
+25600918 10:09:38  POS_CONFIG  (2 Row)
+25600918 10:09:38  TBUSER  (16 Row)
+25600918 10:09:38  TSJOURNAL  (579 Row)
+25600918 10:09:38  TSJOURNAL_DETAIL  (581 Row)
+25600918 10:09:38  TSJOURNAL_PAYMENT  (579 Row)
+25600918 10:09:38  TBPERIODS  (3 Row)
+25600918 10:09:38  TBHOSE_HISTORY  (54 Row)
+25600918 10:09:38  TBMATERIAL_HISTORY  (56 Row)
+25600918 10:09:38  TBTANK_HISTORY  (15 Row)
+25600918 10:09:38  TBPAY_IN  (3135 Row)
+25600918 10:09:38  สิ้นสุดการนำออกข้อมูล
+25600918 10:09:51  Exit Program
+25600918 10:09:59  Start Program
+25600918 10:09:00  เริ่มต้นนำเข้าข้อมูล
+25600918 10:09:00  Confirm Password : Success
+25600918 10:09:00  APP_DATA  (1 Row)
+25600918 10:09:00  LKDIVISION  (37 Row)
+25600918 10:09:00  LKMAT_GROUP3  (46 Row)
+25600918 10:09:00  POS_CONFIG  (2 Row)
+25600918 10:09:00  TBBOM_USAGE  (2011 Row)
+25600918 10:09:00  TBCONVERSION  (6927 Row)
+25600918 10:09:00  TBHOSE_HISTORY  (54 Row)
+25600918 10:09:00  TBMATERIAL  (1661 Row)
+25600918 10:09:00  TBMATERIAL_HISTORY  (56 Row)
+25600918 10:09:00  TBMATTERIAL_SITE  (54 Row)
+25600918 10:09:00  TBMAT_RECOMMEND  (6 Row)
+25600918 10:09:00  TBPAY_IN  (3135 Row)
+25600918 10:09:00  TBPERIODS  (3 Row)
+25600918 10:09:00  TBPOS_PUMP_ALLOW  (6 Row)
+25600918 10:09:00  TBTANK_HISTORY  (15 Row)
+25600918 10:09:00  TBUSER  (16 Row)
+25600918 10:09:00  TSJOURNAL  (579 Row)
+25600918 10:09:00  TSJOURNAL_DETAIL  (581 Row)
+25600918 10:09:00  TSJOURNAL_PAYMENT  (579 Row)
+25600918 10:09:00  Call sp_Import_Product_To_Inventory
+25600918 10:09:00  Update ISSHOWINPOS = 0,ISSHOWINPOS =0 (1675 Row)
+25600918 10:09:00  Update ISSHOWINPOS (54 Row)
+25600918 10:09:00  Update ISRECOMMEND (6 Row)
+25600918 10:09:00  Create sp_Initial_LUBE_Stock_Inventory
+25600918 10:09:00  Call sp_Initial_LUBE_Stock_Inventory
+25600918 10:09:00  พบปัญหาในการนำเข้าข้อมูล : Call 05.1_Script_config_coco.sql      System.Data.SqlClient.SqlException (0x80131904): Invalid column name 'ADMIN_ONLY'.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlCommand.RunExecuteNonQueryTds(String methodName, Boolean async, Int32 timeout, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at EIReplaceCOCO.frmMain.ExecNoneQuery(String psql_str) in D:\PTT_POS\Project\EIReplaceCOCO\EIReplaceCOCO\frmMain.vb:line 2932
+ClientConnectionId:b5d295fd-4bc5-4d37-9151-96787f50a12e
+Error Number:207,State:1,Class:16
+25600918 10:09:00  Update APP_CONFIG  (0 Row)
+25600918 10:09:00  สิ้นสุดการนำเข้าข้อมูล
+25600918 10:09:10  Start Program
+25600918 10:09:12  เริ่มต้นนำออกข้อมูล
+25600918 10:09:12  Confirm Password : Success
+25600918 10:09:12  APP_DATA  (1 Row)
+25600918 10:09:12  TBPOS_PUMP_ALLOW  (6 Row)
+25600918 10:09:12  TBMATERIAL  (1662 Row)
+25600918 10:09:12  TBBOM_USAGE  (2011 Row)
+25600918 10:09:12  TBMATTERIAL_SITE  (54 Row)
+25600918 10:09:12  TBCONVERSION  (6927 Row)
+25600918 10:09:12  LKMAT_GROUP3  (46 Row)
+25600918 10:09:12  LKDIVISION  (37 Row)
+25600918 10:09:12  TBMAT_RECOMMEND  (6 Row)
+25600918 10:09:12  APP_CONFIG  (16 Row)
+25600918 10:09:12  POS_CONFIG  (2 Row)
+25600918 10:09:12  TBUSER  (16 Row)
+25600918 10:09:12  TSJOURNAL  (579 Row)
+25600918 10:09:12  TSJOURNAL_DETAIL  (581 Row)
+25600918 10:09:12  TSJOURNAL_PAYMENT  (579 Row)
+25600918 10:09:12  TBPERIODS  (3 Row)
+25600918 10:09:12  TBHOSE_HISTORY  (54 Row)
+25600918 10:09:12  TBMATERIAL_HISTORY  (56 Row)
+25600918 10:09:12  TBTANK_HISTORY  (15 Row)
+25600918 10:09:12  TBPAY_IN  (3135 Row)
+25600918 10:09:12  TBPAYIN_PERIOD_LOG  (1 Row)
+25600918 10:09:12  สิ้นสุดการนำออกข้อมูล
+25600918 10:09:28  Exit Program
+25600918 10:09:38  Start Program
+25600918 10:09:41  เริ่มต้นนำเข้าข้อมูล
+25600918 10:09:41  Confirm Password : Success
+25600918 10:09:41  APP_DATA  (1 Row)
+25600918 10:09:41  LKDIVISION  (37 Row)
+25600918 10:09:41  LKMAT_GROUP3  (46 Row)
+25600918 10:09:41  POS_CONFIG  (2 Row)
+25600918 10:09:41  TBBOM_USAGE  (2011 Row)
+25600918 10:09:41  TBCONVERSION  (6927 Row)
+25600918 10:09:41  TBHOSE_HISTORY  (54 Row)
+25600918 10:09:41  TBMATERIAL  (1661 Row)
+25600918 10:09:41  TBMATERIAL_HISTORY  (56 Row)
+25600918 10:09:41  TBMATTERIAL_SITE  (54 Row)
+25600918 10:09:41  TBMAT_RECOMMEND  (6 Row)
+25600918 10:09:41  TBPAYIN_PERIOD_LOG  (1 Row)
+25600918 10:09:41  TBPAY_IN  (3135 Row)
+25600918 10:09:41  TBPERIODS  (3 Row)
+25600918 10:09:41  TBPOS_PUMP_ALLOW  (6 Row)
+25600918 10:09:41  TBTANK_HISTORY  (15 Row)
+25600918 10:09:41  TBUSER  (16 Row)
+25600918 10:09:41  TSJOURNAL  (579 Row)
+25600918 10:09:41  TSJOURNAL_DETAIL  (581 Row)
+25600918 10:09:41  TSJOURNAL_PAYMENT  (579 Row)
+25600918 10:09:41  Call sp_Import_Product_To_Inventory
+25600918 10:09:41  Update ISSHOWINPOS = 0,ISSHOWINPOS =0 (1675 Row)
+25600918 10:09:41  Update ISSHOWINPOS (54 Row)
+25600918 10:09:41  Update ISRECOMMEND (6 Row)
+25600918 10:09:41  Create sp_Initial_LUBE_Stock_Inventory
+25600918 10:09:41  Call sp_Initial_LUBE_Stock_Inventory
+25600918 10:09:41  พบปัญหาในการนำเข้าข้อมูล : Call 05.1_Script_config_coco.sql      System.Data.SqlClient.SqlException (0x80131904): Invalid column name 'ADMIN_ONLY'.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlCommand.RunExecuteNonQueryTds(String methodName, Boolean async, Int32 timeout, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at EIReplaceCOCO.frmMain.ExecNoneQuery(String psql_str) in D:\PTT_POS\Project\EIReplaceCOCO\EIReplaceCOCO\frmMain.vb:line 2932
+ClientConnectionId:3ffeefaf-3f4b-4a97-bcfa-c0b58112e07a
+Error Number:207,State:1,Class:16
+25600918 10:09:41  Update APP_CONFIG  (0 Row)
+25600918 10:09:41  สิ้นสุดการนำเข้าข้อมูล
+25600918 10:09:08  Exit Program
+25600918 10:09:08  Start Program
+25600918 10:09:10  เริ่มต้นนำออกข้อมูล
+25600918 10:09:10  Confirm Password : Success
+25600918 10:09:10  APP_DATA  (1 Row)
+25600918 10:09:10  TBPOS_PUMP_ALLOW  (6 Row)
+25600918 10:09:10  TBMATERIAL  (1662 Row)
+25600918 10:09:10  TBBOM_USAGE  (2011 Row)
+25600918 10:09:10  TBMATTERIAL_SITE  (54 Row)
+25600918 10:09:10  TBCONVERSION  (6927 Row)
+25600918 10:09:10  LKMAT_GROUP3  (46 Row)
+25600918 10:09:10  LKDIVISION  (37 Row)
+25600918 10:09:10  TBMAT_RECOMMEND  (6 Row)
+25600918 10:09:10  APP_CONFIG  (16 Row)
+25600918 10:09:10  POS_CONFIG  (2 Row)
+25600918 10:09:10  TBUSER  (16 Row)
+25600918 10:09:10  TSJOURNAL  (579 Row)
+25600918 10:09:10  TSJOURNAL_DETAIL  (581 Row)
+25600918 10:09:10  TSJOURNAL_PAYMENT  (579 Row)
+25600918 10:09:10  TBPERIODS  (3 Row)
+25600918 10:09:10  TBHOSE_HISTORY  (54 Row)
+25600918 10:09:10  TBMATERIAL_HISTORY  (56 Row)
+25600918 10:09:10  TBTANK_HISTORY  (15 Row)
+25600918 10:09:10  TBPAY_IN  (3135 Row)
+25600918 10:09:10  TBPAYIN_PERIOD_LOG  (1 Row)
+25600918 10:09:10  สิ้นสุดการนำออกข้อมูล
+25600918 10:09:34  Exit Program
+25600918 10:09:43  Start Program
+25600918 10:09:46  เริ่มต้นนำเข้าข้อมูล
+25600918 10:09:46  Confirm Password : Success
+25600918 10:09:46  APP_DATA  (1 Row)
+25600918 10:09:46  LKDIVISION  (37 Row)
+25600918 10:09:46  LKMAT_GROUP3  (46 Row)
+25600918 10:09:46  POS_CONFIG  (2 Row)
+25600918 10:09:46  TBBOM_USAGE  (2011 Row)
+25600918 10:09:46  TBCONVERSION  (6927 Row)
+25600918 10:09:46  TBHOSE_HISTORY  (54 Row)
+25600918 10:09:46  TBMATERIAL  (1661 Row)
+25600918 10:09:46  TBMATERIAL_HISTORY  (56 Row)
+25600918 10:09:46  TBMATTERIAL_SITE  (54 Row)
+25600918 10:09:46  TBMAT_RECOMMEND  (6 Row)
+25600918 10:09:46  TBPAYIN_PERIOD_LOG  (1 Row)
+25600918 10:09:46  TBPAY_IN  (3135 Row)
+25600918 10:09:46  TBPERIODS  (3 Row)
+25600918 10:09:46  TBPOS_PUMP_ALLOW  (6 Row)
+25600918 10:09:46  TBTANK_HISTORY  (15 Row)
+25600918 10:09:46  TBUSER  (16 Row)
+25600918 10:09:46  TSJOURNAL  (579 Row)
+25600918 10:09:46  TSJOURNAL_DETAIL  (581 Row)
+25600918 10:09:46  TSJOURNAL_PAYMENT  (579 Row)
+25600918 10:09:46  Call sp_Import_Product_To_Inventory
+25600918 10:09:46  Update ISSHOWINPOS = 0,ISSHOWINPOS =0 (1675 Row)
+25600918 10:09:46  Update ISSHOWINPOS (54 Row)
+25600918 10:09:46  Update ISRECOMMEND (6 Row)
+25600918 10:09:46  Create sp_Initial_LUBE_Stock_Inventory
+25600918 10:09:46  Call sp_Initial_LUBE_Stock_Inventory
+25600918 10:09:46  พบปัญหาในการนำเข้าข้อมูล : Call 05.1_Script_config_coco.sql      System.Data.SqlClient.SqlException (0x80131904): Invalid column name 'ADMIN_ONLY'.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlCommand.RunExecuteNonQueryTds(String methodName, Boolean async, Int32 timeout, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at EIReplaceCOCO.frmMain.ExecNoneQuery(String psql_str) in D:\PTT_POS\Project\EIReplaceCOCO\EIReplaceCOCO\frmMain.vb:line 2932
+ClientConnectionId:45991821-5757-4719-b46d-80290220053e
+Error Number:207,State:1,Class:16
+25600918 10:09:46  Update APP_CONFIG  (0 Row)
+25600918 10:09:46  สิ้นสุดการนำเข้าข้อมูล
+25600918 10:09:09  Start Program
+25600918 10:09:11  Connection State is close.

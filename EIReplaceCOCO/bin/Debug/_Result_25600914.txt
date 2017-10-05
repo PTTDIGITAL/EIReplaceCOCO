@@ -1,0 +1,2 @@
+﻿25600914 04:09:27  Start Program
+25600914 04:09:29  Connection State is close.

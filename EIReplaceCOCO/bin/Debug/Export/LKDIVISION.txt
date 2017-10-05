@@ -1,0 +1,39 @@
+DIVISION_ID|DIVISION_NAME|CAN_RETURN|CREATEDATE|MODDATE|MODBY
+1|Product Division|False|||
+10|Light oil|False|||
+11|C3/LPG|False|||
+12|Light Oil|False|||
+13|Heavy Oil|False|||
+20|Lubricant|True|||
+30|Lube|True|||
+31|Lube Base & Add.|False|||
+32|PTT LubMarine|False|||
+40|Aviation|False|||
+50|Asphalt|False|||
+51|Petrochem|False|||
+52|Crude/Condensate|False|||
+53|Solvent|False|||
+54|Coal|False|||
+55|Paper Trading|False|||
+56|Sulphur|False|||
+60|NG|False|||
+61|NGL|False|||
+62|C2|False|||
+63|CO2|False|||
+64|NGV|False|||
+65|Tariff|False|||
+66|LNG|False|||
+70|Electricity|False|||
+71|Steam|False|||
+72|Water|False|||
+73|PTTUT: Services|False|||
+77|Cross-Division|False|||
+78|Product|False|||
+79|Service|False|||
+80|Services|False|||
+87|PPCL: Main Produc|False|||
+88|PPCL: By Product|False|||
+89|PPCL: Service|False|||
+90|Non Hydrocarbon|True|||
+99|STO01|False|||
+

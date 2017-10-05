@@ -1,0 +1,42 @@
+﻿25600921 09:09:35  Start Program
+25600921 09:09:38  เริ่มต้นนำเข้าข้อมูล
+25600921 09:09:38  Confirm Password : Success
+25600921 09:09:38  APP_DATA  (1 Row)
+25600921 09:09:38  LKDIVISION  (37 Row)
+25600921 09:09:38  LKMAT_GROUP3  (46 Row)
+25600921 09:09:38  POS_CONFIG  (2 Row)
+25600921 09:09:38  TBBOM_USAGE  (2011 Row)
+25600921 09:09:38  TBCONVERSION  (6927 Row)
+25600921 09:09:38  TBHOSE_HISTORY  (54 Row)
+25600921 09:09:38  TBMATERIAL  (1661 Row)
+25600921 09:09:38  TBMATERIAL_HISTORY  (56 Row)
+25600921 09:09:38  TBMATTERIAL_SITE  (54 Row)
+25600921 09:09:38  TBMAT_RECOMMEND  (6 Row)
+25600921 09:09:38  TBPAYIN_PERIOD_LOG  (1 Row)
+25600921 09:09:38  TBPAY_IN  (3135 Row)
+25600921 09:09:38  TBPERIODS  (3 Row)
+25600921 09:09:38  TBPOS_PUMP_ALLOW  (6 Row)
+25600921 09:09:38  TBTANK_HISTORY  (15 Row)
+25600921 09:09:38  TBUSER  (16 Row)
+25600921 09:09:38  TSJOURNAL  (579 Row)
+25600921 09:09:38  TSJOURNAL_DETAIL  (581 Row)
+25600921 09:09:38  TSJOURNAL_PAYMENT  (579 Row)
+25600921 09:09:38  Call sp_Import_Product_To_Inventory
+25600921 09:09:38  Update ISSHOWINPOS = 0,ISSHOWINPOS =0 (1675 Row)
+25600921 09:09:38  Update ISSHOWINPOS (54 Row)
+25600921 09:09:38  Update ISRECOMMEND (6 Row)
+25600921 09:09:38  Create sp_Initial_LUBE_Stock_Inventory
+25600921 09:09:38  Call sp_Initial_LUBE_Stock_Inventory
+25600921 09:09:38  พบปัญหาในการนำเข้าข้อมูล : Call 05.1_Script_config_coco.sql      System.Data.SqlClient.SqlException (0x80131904): Invalid column name 'ADMIN_ONLY'.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlCommand.RunExecuteNonQueryTds(String methodName, Boolean async, Int32 timeout, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at EIReplaceCOCO.frmMain.ExecNoneQuery(String psql_str) in D:\PTT_POS\Project\EIReplaceCOCO\EIReplaceCOCO\frmMain.vb:line 2932
+ClientConnectionId:e709b44b-809e-4b22-a636-efdfe882ec89
+Error Number:207,State:1,Class:16
+25600921 09:09:38  Update APP_CONFIG  (0 Row)
+25600921 09:09:38  สิ้นสุดการนำเข้าข้อมูล
+25600921 09:09:07  Exit Program

@@ -1,0 +1,48 @@
+MAT_GROUP3|GROUP3_NAME|CREATEDATE|MODDATE|MODBY
+001|ULG|||
+002|Lube Package 200 litre|||
+003|Lube Package 18 litre|||
+004|Lube Package 6/5 litre|||
+005|Synthentic|||
+006|Semi|||
+007|Standard|||
+008|Lube Package 12/0.5 litre|||
+011|Fishery|||
+012|Hydraulic|||
+013|Gear & Break|||
+014|Industry|||
+015|Grease|||
+016|Other|||
+017|Lube package 4/4 Litre|||
+018|Lube Package 20/1 litre|||
+019|Lube package 20/0.5 Litre|||
+020|Lube package 10/1 Litre|||
+021|Lube package 20/0.7 Litre|||
+022|Lube package 6/1 Litre|||
+024|Lube Package 180 kg|||
+026|Lube Package 15 kg|||
+027|Lube Package 6 X 2 kg|||
+028|Lube Package 24 X 0.5 kg|||
+029|Lube package 4/5 kg|||
+030|Lube package 6/5 kg|||
+031|Lube package 1/10 kg|||
+032|LPG 4KG|||
+033|LPG 7KG|||
+035|LPG 15KG|||
+036|LPG 48KG|||
+052|Lube package 6 litre|||
+053|Lube Package 5 litre|||
+054|Lube Package 4 litre|||
+055|Lube package 3 litre|||
+056|Lube Package 1 litre|||
+057|Lube package 0.8 litre|||
+058|Lube package 0.7 litre|||
+059|Lube Package 0.5 litre|||
+060|Lube package 0.17 litre|||
+061|Lube package 5 kg|||
+062|Lube package 2 kg|||
+063|Lube Package 0.5 kg|||
+067|Lube Package 0.12 litre|||
+109|GODZILLA|30/1/2558 11:00:13|30/1/2558 11:00:13|ADMIN ADMINISTRATOR
+113|Sulphur|||
+
